@@ -642,7 +642,7 @@ footer .social-links li a:hover {
 #experience .modal .modal-content p,
 #experience .modal .modal-bullets li,
 #experience .modal .github-btn {
-  color: var(--text-color, #0b1724);
+  color: #ffffff;
 }
 
 /* Asegura contraste en elementos secundarios si usan color muted */
